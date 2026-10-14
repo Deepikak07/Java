@@ -1,6 +1,6 @@
 public class Datatypes {
     public static void main(String[] args) {
-        byte b=12;
+        byte b=25;
         float f=1.3f;
         int num=12;
         long L=7878945697L;
@@ -8,6 +8,7 @@ public class Datatypes {
         short s=25675;
         boolean bool= true;
         char c='A';
+
 
         System.out.println(b+" "+num+" "+f+" "+L+" "+d+" "+s+" "+bool+" "+c);
 
