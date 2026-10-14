@@ -15,6 +15,6 @@ public class Assignment {
         System.out.println("assign "+(a>>=b));
         System.out.println("assign "+(a<<=b));
         System.out.println("assign "+(a&=b));
-        System.out.println("assign "+(a^=b));
+
     }
 }
